@@ -33,7 +33,7 @@ Check out the deployed project here:
 <!-- ABOUT THE PROJECT -->
 ## 📖 About The Project
 
-<img src="Furniture%20Website/images/desktop.png" alt="Furniture Website Desktop View" width="100%" />
+<img src="Furniture%20Website/image/desktop.png" alt="Furniture Website Desktop View" width="100%" />
 
 The **Furniture Website** is a professional front-end UI designed to showcase furniture collections, highlight product details, and enhance the online browsing experience.  
 It focuses on modern design, responsive layouts, and smooth interactions across devices.
